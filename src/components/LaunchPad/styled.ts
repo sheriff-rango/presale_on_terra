@@ -98,6 +98,7 @@ export const AmountInput = styled.input`
   border-radius: 32px;
   background-color: transparent;
   padding: 12px 64px 12px 24px;
+  color: #fff;
 `;
 
 export const ButtonContainer = styled.div`
