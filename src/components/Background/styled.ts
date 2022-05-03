@@ -6,7 +6,7 @@ export const Wrapper = styled.div`
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(180deg, #01203a 0%, #01203a 20%, #063862 100%);
+  background: linear-gradient(180deg, #01203a 0%, #01203a 140px, #063862 100%);
   z-index: -1;
   & > svg {
     position: absolute;

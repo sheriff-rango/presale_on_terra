@@ -1,8 +1,10 @@
 {
-  "name": "my-app",
+  "name": "pre-sale",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@nivo/core": "^0.79.0",
+    "@nivo/pie": "^0.79.1",
     "@reduxjs/toolkit": "^1.7.2",
     "@terra-money/terra.js": "^3.0.1",
     "@terra-money/wallet-provider": "^3.6.0",
