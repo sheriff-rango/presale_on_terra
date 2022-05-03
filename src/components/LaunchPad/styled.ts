@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Wrapper = styled.div`
   position: relative;
-  width: 100vw;
+  width: calc(100vw - 5px); // 5px is the width of scroll bar
   min-height: 100vh;
   z-index: 2;
   color: white;
